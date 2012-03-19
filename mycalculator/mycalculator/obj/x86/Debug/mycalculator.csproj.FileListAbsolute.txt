@@ -1,0 +1,9 @@
+C:\Users\J\Documents\Visual Studio 2010\Projects\mycalculator\mycalculator\bin\Debug\mycalculator.exe
+C:\Users\J\Documents\Visual Studio 2010\Projects\mycalculator\mycalculator\bin\Debug\mycalculator.pdb
+C:\Users\J\Documents\Visual Studio 2010\Projects\mycalculator\mycalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\J\Documents\Visual Studio 2010\Projects\mycalculator\mycalculator\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\J\Documents\Visual Studio 2010\Projects\mycalculator\mycalculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\J\Documents\Visual Studio 2010\Projects\mycalculator\mycalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\J\Documents\Visual Studio 2010\Projects\mycalculator\mycalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\J\Documents\Visual Studio 2010\Projects\mycalculator\mycalculator\obj\x86\Debug\mycalculator.exe
+C:\Users\J\Documents\Visual Studio 2010\Projects\mycalculator\mycalculator\obj\x86\Debug\mycalculator.pdb
